@@ -1,0 +1,26 @@
+body{
+    padding: 25px;
+  }
+  .title {
+      color: #5C6AC4;
+  }
+  
+  .container {
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .round-btn {
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border-radius: 50%;
+    border: none;
+    position: absolute;
+    transition: all 0.5s ease-in-out;
+  }
