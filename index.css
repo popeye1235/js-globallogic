@@ -8,7 +8,7 @@ body{
   .container {
     width: 400px;
     height: 400px;
-    background-color: red;
+    background-color: chocolate;
     position: relative;
     display: flex;
     justify-content: center;
@@ -18,7 +18,7 @@ body{
   .round-btn {
     width: 100px;
     height: 100px;
-    background-color: white;
+    background-color: wheat;
     border-radius: 50%;
     border: none;
     position: absolute;
