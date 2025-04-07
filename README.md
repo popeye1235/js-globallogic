@@ -1,0 +1,1 @@
+global logic coding test
